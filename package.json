@@ -9,7 +9,7 @@
     "lint:fix": "prettier --write .",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:watchAll": "jest --watchALL"
+    "test:watchAll": "jest --watchAll"
   },
   "author": "",
   "license": "MIT",
